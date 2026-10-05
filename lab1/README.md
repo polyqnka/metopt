@@ -51,7 +51,7 @@ Z_{\max} = 25
 
 ```bash
 python3 solver.py
-
+```
 ## Структура
 
 ```text
