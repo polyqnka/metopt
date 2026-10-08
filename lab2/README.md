@@ -127,8 +127,6 @@ python3 broken_lines.py
 ```text
 lab2/
 ├── broken_lines.py
-├── lab2_broken_lines.ipynb
-├── rastrigin_broken_lines.png
-├── solution.tex
+├── HW2.pdf
 └── README.md
 ```
