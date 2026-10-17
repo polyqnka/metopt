@@ -207,7 +207,7 @@ def plot_result(
             for x_i, y_i in points
         ]
 
-        lower_envelope.append(min(values))
+        lower_envelope.append(max(values))
 
     lower_envelope = np.array(lower_envelope)
 
